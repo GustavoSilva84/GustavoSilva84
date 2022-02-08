@@ -2,7 +2,8 @@
 > Olá, seja vindo a o meu github, eu me chamo Gustavo tenho 16 anos, e sou desenvolvedor full-stack
 
 <br/><h2> Meus conhecimentos </h2>
-<img alt="button nodejs" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonNode.svg?alt=media&token=820a5368-162e-46a4-b5c7-984917afab43"/>
+<div style="display: flex">
+  <img alt="button nodejs" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonNode.svg?alt=media&token=820a5368-162e-46a4-b5c7-984917afab43"/>
 <img alt="button css" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonCss.svg?alt=media&token=76598e33-20d7-480d-9e16-44c1561a8107"/>
 <img alt="button express" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonExpress.svg?alt=media&token=9bfaf22f-1a22-4dc2-aca9-f7d21549244e"/>
 <img alt="button html" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonHtml.svg?alt=media&token=90cd03da-5cc0-402b-922b-b5cafa968244"/>
@@ -17,6 +18,7 @@
 <img alt="button nest" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonNest.svg?alt=media&token=6edd9802-c354-42a8-863d-ca4b405694f4">
 <img alt="button go lang" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonGolang.svg?alt=media&token=3839e174-df4c-4974-9bac-07cd9272391a"/>
 <img alt="button c#" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonC%23.svg?alt=media&token=d044d282-37cf-47fe-814a-91ea6ea513ca">
+</div>
 <br/><br/> <h2> Entra em contato </h2>
 <a href="mailto:gustavodev84@gmail.com"> <img alt="buttom email" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonEmail.svg?alt=media&token=7aac2ee9-c0a8-4773-8ff5-dc50aa02538b"/>
 <a href="https://discord.com/channels/@me"> <img alt="buttom discord" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonDiscord.svg?alt=media&token=9589fd52-0223-4ae3-9c84-d7904e10d2bb"/></a>
