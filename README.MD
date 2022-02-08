@@ -19,7 +19,7 @@
 <img alt="button go lang" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonGolang.svg?alt=media&token=3839e174-df4c-4974-9bac-07cd9272391a"/>
 <img alt="button c#" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonC%23.svg?alt=media&token=d044d282-37cf-47fe-814a-91ea6ea513ca">
 </div>
-<br/><br/> <h2> Entra em contato </h2>
+<br/><br/> <h2> Entrar em contato </h2>
 <a href="mailto:gustavodev84@gmail.com"> <img alt="buttom email" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonEmail.svg?alt=media&token=7aac2ee9-c0a8-4773-8ff5-dc50aa02538b"/>
 <a href="https://discord.com/channels/@me"> <img alt="buttom discord" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonDiscord.svg?alt=media&token=9589fd52-0223-4ae3-9c84-d7904e10d2bb"/></a>
 <a href="https://www.instagram.com/gustavo_developer"> <img src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonInstrgram.svg?alt=media&token=785e5eca-f71c-4169-acfb-f748bcb196f9"/></a>
