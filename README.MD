@@ -1,5 +1,5 @@
 <h1> 🚀 Gustavo </h1>
-> Olá, seja vindo a o meu github, eu me chamo Gustavo tenho 16 anos, e sou desenvolvedor full-stack
+> Olá, seja vindo a o meu github, eu me chamo Gustavo tenho 16 anos
 
 <br/><h2> Meus conhecimentos </h2>
 <div style="display: flex">
