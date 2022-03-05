@@ -13,8 +13,8 @@
 <img alt="button sass" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonSass.svg?alt=media&token=d40fade0-5a12-48cc-b49e-5639742fec29"/>
 <img alt="button styled components" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonStyledcomponents.svg?alt=media&token=280fcdd0-8557-4508-a5f5-32d195f7bfda"/>
 <img alt="button typescript" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonTypescript.svg?alt=media&token=7b6f73f6-e6ab-4197-9fd0-637807a25935"/>
-<br/><br/> <h2> Tecnologias que pretendo aprender </h2>
 <img alt="button next" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonNext.svg?alt=media&token=927678b5-1767-4947-9410-99c161ce8fc9"/>
+<br/><br/> <h2> Tecnologias que pretendo aprender </h2>
 <img alt="button nest" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonNest.svg?alt=media&token=6edd9802-c354-42a8-863d-ca4b405694f4">
 <img alt="button go lang" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonGolang.svg?alt=media&token=3839e174-df4c-4974-9bac-07cd9272391a"/>
 <img alt="button c#" src="https://firebasestorage.googleapis.com/v0/b/my-upload-f9d82.appspot.com/o/buttonC%23.svg?alt=media&token=d044d282-37cf-47fe-814a-91ea6ea513ca">
