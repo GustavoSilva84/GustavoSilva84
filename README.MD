@@ -3,8 +3,7 @@
 <hr/>
 <h2> Contato </h2>
 <div style="display: flex">
-  <a href="https://www.instagram.com/gustavo_deve![Uploading instagramm.svg…]()
-loper"> 
+  <a href="https://www.instagram.com/gustavo_developer"> 
     <img src="https://user-images.githubusercontent.com/72147773/175789152-b2b3567e-0750-4836-96e3-5a39f1ec9547.svg"/>
   </a>
 
