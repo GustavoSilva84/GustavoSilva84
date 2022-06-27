@@ -1,5 +1,5 @@
 <h1> Olá, viajante 👋 </h1>
-> Seja vindo a o meu github, eu me chamo Gustavo e tenho 17 anos
+> Seja bem-vindo ao meu GitHub, eu me chamo Gustavo e tenho 17 anos
 <hr/>
 <h2> Contato </h2>
 <div style="display: flex">
